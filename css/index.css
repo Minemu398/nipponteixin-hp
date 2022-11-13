@@ -1,3 +1,10 @@
-h1 {
+.background {
+    background-image: url(../images/seiseki.jpg);
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: center;
+}
+
+.h1 {
     color: crimson;
 }
