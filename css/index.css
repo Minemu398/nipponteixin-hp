@@ -1,5 +1,5 @@
 .background {
-    background-image: url(../images/seiseki.jpg);
+    background-image: url('../images/seiseki.jpg');
     background-attachment: fixed; 
     background-size: cover;
     background-position: center;
