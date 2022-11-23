@@ -9,6 +9,10 @@ body {
     padding-top: 90px; /* ヘッダーの後ろに要素が隠れないようにするため */
 }
 
+img {
+    padding-top: 10px;
+}
+
 header {
     backdrop-filter: blur(80px);
     filter: brightness(120%);
